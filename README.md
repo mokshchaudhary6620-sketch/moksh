@@ -1,3 +1,3 @@
 # moksh
 <br>
-autor = moksh chaudhary
+autor = moksh dagar
